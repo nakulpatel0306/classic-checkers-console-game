@@ -1,7 +1,6 @@
 # ♟️ Checkers - Console Game (Java)
 
-A simple **Java-based console Checkers game**.  
-Play against another human or a computer opponent in the terminal with standard Checkers rules.
+A simple **Java-based console Checkers game**. Play against another human or a computer opponent in the terminal with standard Checkers rules.
 
 ---
 
