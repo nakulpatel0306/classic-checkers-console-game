@@ -5,7 +5,6 @@ Standard 8x8 Checkers in the terminal, against a friend on the same machine or a
 ## At a Glance
 
 - **Stack:** Java (no external libraries)
-- **Context:** ICS4U summative project, built with Mihir Patel in 2021
 - **State:** Complete
 
 ## Features
